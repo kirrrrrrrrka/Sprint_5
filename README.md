@@ -1,1 +1,1 @@
-# Sprint_5 - UI Testing Project
+# Sprint_5
